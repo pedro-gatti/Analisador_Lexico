@@ -1,0 +1,10 @@
+oi
+aux
+aux2
+123aux
+=aux
+*aux
+aux = aux2  ??comentario
+20
+20.15
+~
